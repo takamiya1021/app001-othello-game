@@ -1,0 +1,12 @@
+{
+  "name": "othello-game",
+  "version": "1.0.0",
+  "description": "オセロゲーム - ブラウザで遊べるクラシックなボードゲーム",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": ["othello", "game", "board-game", "javascript"],
+  "author": "",
+  "license": "MIT"
+}
