@@ -1,0 +1,7 @@
+{
+  "outputDirectory": ".",
+  "buildCommand": "",
+  "devCommand": "python3 -m http.server 8000",
+  "installCommand": "",
+  "framework": null
+}
